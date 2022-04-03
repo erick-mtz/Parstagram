@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.12777777777777777" />
         <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/layout/activity_login.xml" value="0.17527173913043478" />
-        <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/layout/activity_main.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/layout/fragment_compose.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/layout/fragment_feed.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/layout/item_post.xml" value="0.264" />
+        <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
         <entry key="..\:/Users/Erick/Desktop/CodePath_Unit_5/app/src/main/res/xml/fileprovider.xml" value="0.17527173913043478" />
       </map>
     </option>
